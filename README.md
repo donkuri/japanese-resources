@@ -23,3 +23,16 @@ Hiragana and katakana (commonly called *kana* together) form two basic alphabets
 - Writing the kana
   - [Takumi's hiragana writing guide](https://www.youtube.com/watch?v=wD3FJgij79c) - Learn how to write hiragana (if you want to).
   - [Takumi's katakana writing guide](https://www.youtube.com/watch?v=rf-n_qI2occ) - The same but for katakana.
+
+## Kanji
+
+If you intend to do isolated kanji study, you can use the following resources. It is strongly suggested to skip straight to vocabulary and to come back here if really needed, with maybe the exception of learning phonetics.
+
+- Kanji mnemonics
+  - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - A shortened "recognition" version of [RTK](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921). **Disclaimer: The stories were taken from a website and some of there are pretty offensive.**
+  - [Kodansha Kanji Learner's Course] - An arguably better version of Remembering the Kanji. Has [an accompanying Anki deck](https://ankiweb.net/shared/info/1564742924)
+  - [The Kanji Map](https://thekanjimap.com/) - A website meant to help you better visualize kanji components. Doesn't always link kanji in the most logical (or correct) manner, but can be a start.
+ 
+- Kanji phonetics
+  - [Usagichan Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?usp=drive_link) - An Anki deck meant to help you learn phonetic radicals.
+  - [Kanji Code](https://thekanjicode.com/) - A kanji phonetics book based on the PhD dissertation of the author. There is a [companion Anki deck](https://ankiweb.net/shared/info/470563167).
