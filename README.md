@@ -38,9 +38,6 @@ These two tools form the backbone of the current immersion-based Japanese learni
   - **[Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)** - A guide explaining how to setup Yomitan as well as what it is. Written by [kuri](https://github.com/donkuri/).
   - [Xelieu's Yomitan setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) - Another setup guide for Yomitan. Written by [Xelieu](https://github.com/xelieu).
   - [Xelieu's Yomitan on Android setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) - A setup guide for Yomitan on Android devices. Written by [Xelieu](https://github.com/xelieu).
-
-- Yomitan dictionaries
-  - [Shoui's dictionary collection](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH) - A collection of Yomitan dictionaries hosted by shoui.
   - [Marv's dictionary collection](https://github.com/MarvNC/yomitan-dictionaries) - A collection of Yomitan dictionaries hosted by [MarvNC](https://github.com/MarvNC).
 
 - Miscellaneous
