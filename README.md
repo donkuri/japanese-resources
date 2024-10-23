@@ -121,6 +121,9 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/) - A collection of thoughts on immersion to help people get into it. Written by yours truly.
   - [How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse) - A discussion on immersion and how best to do it. Written by shoui.
 
+- Miscellaneous
+  [jimaku.cc](https://jimaku.cc/) - A website with many different subtitles for anime.
+
 ## Listening
 
 Listening is an important component of Japanese immersion.
