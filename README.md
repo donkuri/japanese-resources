@@ -4,15 +4,15 @@
 
 ## Learning guides
 
-This section is dedicated to Japanese learning guides. You should start here if you don't know much about learning Japanese, immersion or if you just want a refresher.
+This section is dedicated to Japanese learning guides. Start here unless you know what you're doing.
 
-- [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need to learn Japanese. Written by [yours truly](https://github.com/donkuri/).
+- [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [yours truly](https://github.com/donkuri/).
 - [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
 - [Animecards' learning Japanese guide](https://animecards.site/learningjapanese/) - A much more concise guide dedicated to learning Japanese through immersion, but not updated as often. Written by QM.
 
 ## Hiragana & Katakana
 
-Hiragana and katakana (commonly called *kana* together) form two basic alphabets used in Japanese and are often the starting point in one's Japanese learning journey. You may or may not want to learn how to write them, but at the very least you will need to be able to recognize and read them.
+Hiragana and katakana (commonly called *kana* together) form two basic alphabets used in Japanese. You may or may not want to learn how to write them, but at the very least you will need to be able to recognize and read them.
 
 - Memorizing the kana
   - [Ved's kana learning game](https://vedxyz.github.io/kana/) - The most complete kana learning game. Do this for a few days to learn kana.
@@ -25,7 +25,7 @@ Hiragana and katakana (commonly called *kana* together) form two basic alphabets
 
 ## Anki & Yomitan
 
-These two tools form the backbone of the current immersion-based Japanese learning community, as such they deserve a special section.
+These two tools form the backbone of the current immersion-based Japanese learning community. As such, they deserve a special section.
 
 - [Anki](https://apps.ankiweb.net/) - A [spaced-repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) used to memorize things, mostly vocabulary.
   - [Anki manual](https://docs.ankiweb.net/#/) - The official docs for Anki. You are encouraged to read at least [this](https://docs.ankiweb.net/getting-started.html).
@@ -48,7 +48,7 @@ These two tools form the backbone of the current immersion-based Japanese learni
 
 ## Kanji
 
-If you intend to do isolated kanji study, you can use the following resources. It is strongly suggested to skip straight to vocabulary and to come back here if really needed, with maybe the exception of learning phonetics.
+If you intend to do isolated kanji study, you can use the following resources. **It is strongly suggested to skip straight to vocabulary** and to come back here if really needed, with maybe the exception of learning phonetics.
 
 - Kanji mnemonics
   - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - A shortened "recognition" version of [RTK](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921). **Disclaimer: The stories were taken from a website and some of there are pretty offensive.**
@@ -106,6 +106,19 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [HoriSan](https://github.com/Flare155/HoriSanBot) - A feature-full Discord bot to log your immersion. Written by [Flare](https://github.com/Flare155).
 
 ## Listening
+
+Listening is an important component of Japanese immersion.
+
+- Tools
+  - [Condenser](https://ercanserteli.com/condenser/) - A tool to make condensed audio from your Japanese immersion. Useful if you want to do passive immersion.
+  - [Podcast Republic](https://www.podcastrepublic.net/) - After changing your location to Japan, you can access a last catalog of Japanese podcasts.
+  - [Numbers](https://langpractice.com/japanese) - A tool made to help you recognize and learn numbers in Japanese.
+
+- Pitch accent
+  - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) - A great introduction to Japanese pitch accent as well as how to learn it.
+  - [kotu.io](https://kotu.io/) - A website made to help you learn pitch accent.
+  - [NotOrange's notes on pitch](https://docs.google.com/document/d/1e5DUuDLPKzYnyX9ZZPp2CXLoxk1ZPwH-Q0a0XCQA-Yc/edit?tab=t.0#heading=h.cgsroygtuckp) - NotOrange's notes on Japanese pitch accent.
+  - [xythh's resources](https://xythh.github.io/resources) - A collection of resources on learning Japanese pitch accent. Made by [xythh](https://github.com/xythh).
 
 ## Writing
 
