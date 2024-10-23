@@ -105,6 +105,22 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [ねむい's anime logging spreadsheet](https://docs.google.com/spreadsheets/d/1CJ5rRmQYg6ckm0U56d3R_IIJBfHiEIZgKfBX4J-sXEs/edit?gid=0#gid=0) - A spreadsheet made by ねむい to log your anime immersion.
   - [HoriSan](https://github.com/Flare155/HoriSanBot) - A feature-full Discord bot to log your immersion. Written by [Flare](https://github.com/Flare155).
 
+## Immersion
+
+[Immersion](https://learnjapanese.moe/guide/#15-what-even-is-immersion) is the main tool we use to learn the language. See [the mining section](#mining) for an explanation on how to use some of these tools.
+
+- Immersion frameworks
+  - [ッツreader](https://reader.ttsu.app) - An online book reader supporting Yomitan to help you read (light) novels.
+  - [asbplayer](https://github.com/killergerbah/asbplayer) - A browser-based media player to allow you to use Yomitan on subtitle files for anime and the like.
+  - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for MPV made to help you create Anki cards from video with subtitles.
+  - [mokuro](https://github.com/kha-white/mokuro) - An OCR made to turn manga into Yomitan-able files. You can also read from [the reader](https://reader.mokuro.app/) or [the catalog](https://catalog.mokuro.moe/).
+  - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
+  - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels.
+ 
+- Immersion advice
+  - [Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/) - A collection of thoughts on immersion to help people get into it. Written by yours truly.
+  - [How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse) - A discussion on immersion and how best to do it. Written by shoui.
+
 ## Listening
 
 Listening is an important component of Japanese immersion.
@@ -112,12 +128,15 @@ Listening is an important component of Japanese immersion.
 - Tools
   - [Condenser](https://ercanserteli.com/condenser/) - A tool to make condensed audio from your Japanese immersion. Useful if you want to do passive immersion.
   - [Podcast Republic](https://www.podcastrepublic.net/) - After changing your location to Japan, you can access a last catalog of Japanese podcasts.
+  - [SpoonCast](https://www.spooncast.net/jp) - A variety of listening content.
   - [Numbers](https://langpractice.com/japanese) - A tool made to help you recognize and learn numbers in Japanese.
 
 - Pitch accent
   - **[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)** - A great introduction to Japanese pitch accent.
   - [NotOrange's notes on pitch](https://docs.google.com/document/d/1e5DUuDLPKzYnyX9ZZPp2CXLoxk1ZPwH-Q0a0XCQA-Yc/edit?tab=t.0#heading=h.cgsroygtuckp) - NotOrange's notes on Japanese pitch accent.
   - [xythh's resources](https://xythh.github.io/resources) - A collection of resources on learning Japanese pitch accent. Made by [xythh](https://github.com/xythh).
+  - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020) - Native Japanese discussing pitch accent and why it matters.
+  - [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Popular YouTuber often discussing pitch accent.
 
 ## Writing
 
@@ -126,3 +145,13 @@ Physically writing kanji is something you may or may not be interested in. Eithe
 - [Kanken deck](https://ankiweb.net/shared/info/759825185) - The recommended way to learn how to write kanji after you know how to read decently well.
 - [Kankenbros](https://rentry.org/kankenbros) - The place to look at if you're interested in passing the 漢字検定, 'kanji kentei'.
 - [Basic Kanji Book 1](https://www.amazon.com/BASIC-KANJI-BOOK-Vol-1-2-C3-A8me-dp-4893589733/dp/4893589733/ref=dp_ob_title_bk) - If you really insist on using a textbook, this is good.
+
+## Output
+
+Output is concerned with producing Japanese. It's about speaking and writing (not necessarily literally) Japanese.
+
+- **[Learning to output](https://morg.systems/Learning-to-Output)** - A guide on output to help you get started. Written by [Morg](https://morg.systems/3d24ec19).
+- [English-Japanese Language Exchange](https://discord.com/invite/NJJCYVD) - A popular Discord server for both Japanese-speaking and English-speaking people looking to converse.
+- [Slowly](https://slowly.app/) - A useful app to make Japanese-speaking penpals.
+- [HelloTalk](https://www.hellotalk.com/) - A popular language exchange app.
+- [italki](https://www.italki.com/) - A website meant to connect you with language tutors, potentially helping you with output.
