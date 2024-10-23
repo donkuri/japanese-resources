@@ -30,12 +30,12 @@ These two tools form the backbone of the current immersion-based Japanese learni
 - [Anki](https://apps.ankiweb.net/) - A [spaced-repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) used to memorize things, mostly vocabulary.
   - [Anki manual](https://docs.ankiweb.net/#/) - The official docs for Anki. You are encouraged to read at least [this](https://docs.ankiweb.net/getting-started.html).
   - [Anki setup guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) - A guide explaining how to setup Anki as well as what it is. Written by yours truly.
-  - [Xelieu's Anki setup](https://xelieu.github.io/jp-lazy-guide/setupAnki/) - Another setup guide for Anki. Written by Xelieu.
+  - [Xelieu's Anki setup](https://xelieu.github.io/jp-lazy-guide/setupAnki/) - Another setup guide for Anki. Written by [Xelieu](https://github.com/xelieu).
  
 - [Yomitan](https://yomitan.wiki/) - A pop-up dictionary browser extension that lets you analyze words and grammar on the fly.
   - [Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup) - A guide explaining how to setup Yomitan as well as what it is. Written by yours truly.
-  - [Xelieu's Yomitan setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) - Another setup guide for Yomitan. Written by Xelieu.
-  - [Xelieu's Yomitan on Android setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) - A setup guide for Yomitan on Android devices. Written by Xelieu.
+  - [Xelieu's Yomitan setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) - Another setup guide for Yomitan. Written by [Xelieu](https://github.com/xelieu).
+  - [Xelieu's Yomitan on Android setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) - A setup guide for Yomitan on Android devices. Written by [Xelieu](https://github.com/xelieu).
 
 - Yomitan dictionaries
   - [Shoui's dictionary collection](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH) - A collection of Yomitan dictionaries hosted by shoui.
@@ -88,6 +88,22 @@ Grammar is the glue that holds together words in Japanese.
   - [庭三郎の現代日本語文法概説](https://djtguide.github.io/grammar/niwasaburoo/index.html) - Another great grammar guide written in Japanese.
 
 ## Mining
+
+Mining is the process of finding new words in immersion, usually by adding them to Anki via Yomitan.
+
+- Mining setups
+  - [Mining setup guide](https://donkuri.github.io/learn-japanese/mining/) - A guide to mining along with setups for most common forms of media. Written by yours truly.
+  - [Xelieu's mining setup](https://xelieu.github.io/jp-lazy-guide/setup/) - Another setup mining guide. Written by [Xelieu](https://github.com/xelieu).
+ 
+- Mining templates
+  - [jp-mining-note](https://arbyste.github.io/jp-mining-note-prerelease/) - A popular notetype for mining. Very feature-rich. Originally made by [aquafina](https://github.com/Aquafina-water-bottle/), now maintained by [arbyste](https://github.com/arbyste/).
+  - [JP-study](https://github.com/rudnam/JP-study) - A collection of templates including a mining template. Made by [rudnam](https://github.com/rudnam).
+  - [Crop Theft](https://github.com/Kuuuube/crop-theft) - A more minimalistic but complete mining notetype. Made by [kuuube](https://github.com/Kuuuube).
+ 
+- Logging immersion
+  - [Xelieu's immersion spreadsheet](https://xelieu.github.io/jp-lazy-guide/immersionDataSpreadsheet/) - A spreadsheet made to log your immersion. Made by [Xelieu](https://github.com/xelieu).
+  - [ねむい's anime logging spreadsheet](https://docs.google.com/spreadsheets/d/1CJ5rRmQYg6ckm0U56d3R_IIJBfHiEIZgKfBX4J-sXEs/edit?gid=0#gid=0) - A spreadsheet made by ねむい to log your anime immersion.
+  - [HoriSan](https://github.com/Flare155/HoriSanBot) - A feature-full Discord bot to log your immersion. Written by [Flare](https://github.com/Flare155).
 
 ## Listening
 
