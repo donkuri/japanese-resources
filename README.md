@@ -8,7 +8,7 @@ If you are interested in contributing, **make a pull request**.
 
 This section is dedicated to Japanese learning guides. Start here unless you know what you're doing.
 
-- **[Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/)** - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [yours truly](https://github.com/donkuri/).
+- **[Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/)** - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [kuri](https://github.com/donkuri/).
 - **[TMW's guide to learning Japanese](https://learnjapanese.moe/guide/)** - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
 - [Animecards' learning Japanese guide](https://animecards.site/learningjapanese/) - A much more concise guide dedicated to learning Japanese through immersion, but not updated as often. Written by QM.
 
@@ -31,11 +31,11 @@ These two tools form the backbone of the current immersion-based Japanese learni
 
 - [Anki](https://apps.ankiweb.net/) - A [spaced-repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) used to memorize things, mostly vocabulary.
   - **[Anki manual](https://docs.ankiweb.net/#/)** - The official docs for Anki. You are encouraged to read at least [this](https://docs.ankiweb.net/getting-started.html).
-  - **[Anki setup guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup)** - A guide explaining how to setup Anki as well as what it is. Written by yours truly.
+  - **[Anki setup guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup)** - A guide explaining how to setup Anki as well as what it is. Written by [kuri](https://github.com/donkuri/).
   - [Xelieu's Anki setup](https://xelieu.github.io/jp-lazy-guide/setupAnki/) - Another setup guide for Anki. Written by [Xelieu](https://github.com/xelieu).
  
 - [Yomitan](https://yomitan.wiki/) - A pop-up dictionary browser extension that lets you analyze words and grammar on the fly.
-  - **[Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)** - A guide explaining how to setup Yomitan as well as what it is. Written by yours truly.
+  - **[Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)** - A guide explaining how to setup Yomitan as well as what it is. Written by [kuri](https://github.com/donkuri/).
   - [Xelieu's Yomitan setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) - Another setup guide for Yomitan. Written by [Xelieu](https://github.com/xelieu).
   - [Xelieu's Yomitan on Android setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) - A setup guide for Yomitan on Android devices. Written by [Xelieu](https://github.com/xelieu).
 
@@ -94,7 +94,7 @@ Grammar is the glue that holds together words in Japanese.
 Mining is the process of finding new words in immersion, usually by adding them to Anki via Yomitan.
 
 - Mining setups
-  - **[Mining setup guide](https://donkuri.github.io/learn-japanese/mining/)** - A guide to mining along with setups for most common forms of media. Written by yours truly.
+  - **[Mining setup guide](https://donkuri.github.io/learn-japanese/mining/)** - A guide to mining along with setups for most common forms of media. Written by [kuri](https://github.com/donkuri/).
   - [Xelieu's mining setup](https://xelieu.github.io/jp-lazy-guide/setup/) - Another setup mining guide. Written by [Xelieu](https://github.com/xelieu).
  
 - Mining templates
@@ -120,8 +120,12 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels.
  
 - Immersion advice
-  - [Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/) - A collection of thoughts on immersion to help people get into it. Written by yours truly.
+  - [Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/) - A collection of thoughts on immersion to help people get into it. Written by [kuri](https://github.com/donkuri/).
   - [How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse) - A discussion on immersion and how best to do it. Written by shoui.
+
+- Recommendations
+  - [Japanese media recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540) - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
+  - [Japanese recs](https://donkuri.github.io/learn-japanese/recs/) - A page listing media recommendations. Written by [kuri](https://github.com/donkuri).
 
 - Miscellaneous
   [jimaku.cc](https://jimaku.cc/) - A website with many different subtitles for anime.
