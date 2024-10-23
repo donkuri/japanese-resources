@@ -124,11 +124,11 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse) - A discussion on immersion and how best to do it. Written by shoui.
 
 - Recommendations
-  - [Japanese media recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540) - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
+  - **[Japanese media recommendations]**(https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540) - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
   - [Japanese recs](https://donkuri.github.io/learn-japanese/recs/) - A page listing media recommendations. Written by [kuri](https://github.com/donkuri).
 
 - Miscellaneous
-  [jimaku.cc](https://jimaku.cc/) - A website with many different subtitles for anime.
+  **[jimaku.cc]**(https://jimaku.cc/) - A website with many different subtitles for anime.
 
 ## Listening
 
