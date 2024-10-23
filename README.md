@@ -121,7 +121,7 @@ Listening is an important component of Japanese immersion.
 
 ## Writing
 
-Physically writing kanji is something you may or may not be interested in. Either way, [it is suggested you already be somewhat proficient in reading first](https://animecards.site/writingjapanese/) before you attempt to learn how to write kanji.
+Physically writing kanji is something you may or may not be interested in. Either way, **[it is suggested you already be somewhat proficient in reading first](https://animecards.site/writingjapanese/)** before you attempt to learn how to write kanji.
 
 - [Kanken deck](https://ankiweb.net/shared/info/759825185) - The recommended way to learn how to write kanji after you know how to read decently well.
 - [Kankenbros](https://rentry.org/kankenbros) - The place to look at if you're interested in passing the 漢字検定, 'kanji kentei'.
