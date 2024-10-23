@@ -6,8 +6,8 @@
 
 This section is dedicated to Japanese learning guides. Start here unless you know what you're doing.
 
-- [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [yours truly](https://github.com/donkuri/).
-- [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
+- **[Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/)** - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [yours truly](https://github.com/donkuri/).
+- **[TMW's guide to learning Japanese](https://learnjapanese.moe/guide/)** - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
 - [Animecards' learning Japanese guide](https://animecards.site/learningjapanese/) - A much more concise guide dedicated to learning Japanese through immersion, but not updated as often. Written by QM.
 
 ## Hiragana & Katakana
@@ -15,7 +15,7 @@ This section is dedicated to Japanese learning guides. Start here unless you kno
 Hiragana and katakana (commonly called *kana* together) form two basic alphabets used in Japanese. You may or may not want to learn how to write them, but at the very least you will need to be able to recognize and read them.
 
 - Memorizing the kana
-  - [Ved's kana learning game](https://vedxyz.github.io/kana/) - The most complete kana learning game. Do this for a few days to learn kana.
+  - **[Ved's kana learning game](https://vedxyz.github.io/kana/)** - The most complete kana learning game. Do this for a few days to learn kana.
   - [DJT Kana](https://djtguide.neocities.org/kana/) - Same as above but slightly simpler. Made by the folks at DJT.
   - [Tofugu's hiragana guide](https://www.tofugu.com/japanese/learn-hiragana/) - Another approach to learning hiragana with mnemonics.
  
@@ -28,12 +28,12 @@ Hiragana and katakana (commonly called *kana* together) form two basic alphabets
 These two tools form the backbone of the current immersion-based Japanese learning community. As such, they deserve a special section.
 
 - [Anki](https://apps.ankiweb.net/) - A [spaced-repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) used to memorize things, mostly vocabulary.
-  - [Anki manual](https://docs.ankiweb.net/#/) - The official docs for Anki. You are encouraged to read at least [this](https://docs.ankiweb.net/getting-started.html).
-  - [Anki setup guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) - A guide explaining how to setup Anki as well as what it is. Written by yours truly.
+  - **[Anki manual](https://docs.ankiweb.net/#/)** - The official docs for Anki. You are encouraged to read at least [this](https://docs.ankiweb.net/getting-started.html).
+  - **[Anki setup guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup)** - A guide explaining how to setup Anki as well as what it is. Written by yours truly.
   - [Xelieu's Anki setup](https://xelieu.github.io/jp-lazy-guide/setupAnki/) - Another setup guide for Anki. Written by [Xelieu](https://github.com/xelieu).
  
 - [Yomitan](https://yomitan.wiki/) - A pop-up dictionary browser extension that lets you analyze words and grammar on the fly.
-  - [Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup) - A guide explaining how to setup Yomitan as well as what it is. Written by yours truly.
+  - **[Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)** - A guide explaining how to setup Yomitan as well as what it is. Written by yours truly.
   - [Xelieu's Yomitan setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) - Another setup guide for Yomitan. Written by [Xelieu](https://github.com/xelieu).
   - [Xelieu's Yomitan on Android setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) - A setup guide for Yomitan on Android devices. Written by [Xelieu](https://github.com/xelieu).
 
@@ -42,7 +42,7 @@ These two tools form the backbone of the current immersion-based Japanese learni
   - [Marv's dictionary collection](https://github.com/MarvNC/yomitan-dictionaries) - A collection of Yomitan dictionaries hosted by [MarvNC](https://github.com/MarvNC).
 
 - Miscellaneous
-  - [Anki Templates](https://chrisk91.me/post/2018-09-28-Anki-Templates-Introduction-HTML/) - A handy guide explaining Anki card formatting.
+  - **[Anki Templates](https://chrisk91.me/post/2018-09-28-Anki-Templates-Introduction-HTML/)** - A handy guide explaining Anki card formatting.
   - [Marv's JP-Resources](https://github.com/MarvNC/JP-Resources) - Very handy collection of resources and tools written by [MarvNC](https://github.com/MarvNC).
   - [JPDB](https://jpdb.io/) - A good alternative to Anki if you do not like it for some reason.
 
@@ -62,20 +62,20 @@ If you intend to do isolated kanji study, you can use the following resources. *
 
 Vocabulary refers to words, not kanji directly. Words are usually made up of kanji and one shouldn't confuse the two. As it is recommended to do a mining deck after learning basic vocabulary, there's only a single recommended resource.
 
-- [Kaishi 1.5k](https://github.com/donkuri/Kaishi/) - The recommended beginner vocabulary Anki deck. Latest release found [here](https://github.com/donkuri/Kaishi/releases) and [here](https://ankiweb.net/shared/info/1196762551).
+- **[Kaishi 1.5k](https://github.com/donkuri/Kaishi/)** - The recommended beginner vocabulary Anki deck. Latest release found [here](https://github.com/donkuri/Kaishi/releases) and [here](https://ankiweb.net/shared/info/1196762551).
 
 ## Grammar
 
 Grammar is the glue that holds together words in Japanese.
 
 - Guides
-  - [Sakubi](https://sakubi.neocities.org/) - A short and to the point grammar guide introducing the basics.
+  - **[Sakubi](https://sakubi.neocities.org/)** - A short and to the point grammar guide introducing the basics.
   - [IMABI](https://imabi.org/) - Extremely comprehensive look at Japanese grammar, from the basics all the way to Classical Japanese.
   - [Tae Kim](https://guidetojapanese.org/learn/category/grammar-guide/grammar-start/) - A slightly older guide that introduces grammar in a casual manner.
  
 - Anki decks
   - [DOJG deck](https://dojgdeck.neocities.org/) - Based on the famous [Dictionary of Japanese Grammar series](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546). See [this](https://djtguide.github.io/grammar/dojgmain.html) and [this](https://github.com/aiko-tanaka/Grammar-Dictionaries) also.
-  - [NihongoKyoshi deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view) - Monolingual deck based on [NihongoKyoshi](https://nihongokyoshi-net.com/). See [https://github.com/aiko-tanaka/Grammar-Dictionaries](also).
+  - **[NihongoKyoshi deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view)** - Monolingual deck based on [NihongoKyoshi](https://nihongokyoshi-net.com/). See [https://github.com/aiko-tanaka/Grammar-Dictionaries](also).
   - [Bunpro deck](https://mega.nz/file/pZQUxLJB#uRuBfWzkCgwlunKc0kGS0YuMkeOLbbGeDJvntkBh_DE) - An anki deck made from [Bunpro](https://bunpro.jp/), a popular grammar app.
 
 - YouTube videos
@@ -84,7 +84,7 @@ Grammar is the glue that holds together words in Japanese.
   - [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - A popular series of video on Japanese grammar. Transcript [here](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit).
  
 - Monolingual resources
-  - [初級を教える人のための日本語文法ハンドブック](https://www.3anet.co.jp/np/books/4680/) - Fantastic Japanese book on Japanese grammar. Follow-up [here](https://www.3anet.co.jp/np/books/4682/).
+  - **[初級を教える人のための日本語文法ハンドブック](https://www.3anet.co.jp/np/books/4680/)** - Fantastic Japanese book on Japanese grammar. Follow-up [here](https://www.3anet.co.jp/np/books/4682/).
   - [庭三郎の現代日本語文法概説](https://djtguide.github.io/grammar/niwasaburoo/index.html) - Another great grammar guide written in Japanese.
 
 ## Mining
@@ -92,7 +92,7 @@ Grammar is the glue that holds together words in Japanese.
 Mining is the process of finding new words in immersion, usually by adding them to Anki via Yomitan.
 
 - Mining setups
-  - [Mining setup guide](https://donkuri.github.io/learn-japanese/mining/) - A guide to mining along with setups for most common forms of media. Written by yours truly.
+  - **[Mining setup guide](https://donkuri.github.io/learn-japanese/mining/)** - A guide to mining along with setups for most common forms of media. Written by yours truly.
   - [Xelieu's mining setup](https://xelieu.github.io/jp-lazy-guide/setup/) - Another setup mining guide. Written by [Xelieu](https://github.com/xelieu).
  
 - Mining templates
@@ -115,8 +115,7 @@ Listening is an important component of Japanese immersion.
   - [Numbers](https://langpractice.com/japanese) - A tool made to help you recognize and learn numbers in Japanese.
 
 - Pitch accent
-  - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) - A great introduction to Japanese pitch accent as well as how to learn it.
-  - [kotu.io](https://kotu.io/) - A website made to help you learn pitch accent.
+  - **[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)** - A great introduction to Japanese pitch accent.
   - [NotOrange's notes on pitch](https://docs.google.com/document/d/1e5DUuDLPKzYnyX9ZZPp2CXLoxk1ZPwH-Q0a0XCQA-Yc/edit?tab=t.0#heading=h.cgsroygtuckp) - NotOrange's notes on Japanese pitch accent.
   - [xythh's resources](https://xythh.github.io/resources) - A collection of resources on learning Japanese pitch accent. Made by [xythh](https://github.com/xythh).
 
