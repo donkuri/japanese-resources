@@ -125,7 +125,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Japanese recs](https://donkuri.github.io/learn-japanese/recs/) - A page listing media recommendations. Written by [kuri](https://github.com/donkuri).
 
 - Miscellaneous
-  **[jimaku.cc](https://jimaku.cc/)** - A website with many different subtitles for anime.
+  - **[jimaku.cc](https://jimaku.cc/)** - A website with many different subtitles for anime.
 
 ## Listening
 
