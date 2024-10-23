@@ -66,6 +66,27 @@ Vocabulary refers to words, not kanji directly. Words are usually made up of kan
 
 ## Grammar
 
+Grammar is the glue that holds together words in Japanese.
+
+- Guides
+  - [Sakubi](https://sakubi.neocities.org/) - A short and to the point grammar guide introducing the basics.
+  - [IMABI](https://imabi.org/) - Extremely comprehensive look at Japanese grammar, from the basics all the way to Classical Japanese.
+  - [Tae Kim](https://guidetojapanese.org/learn/category/grammar-guide/grammar-start/) - A slightly older guide that introduces grammar in a casual manner.
+ 
+- Anki decks
+  - [DOJG deck](https://dojgdeck.neocities.org/) - Based on the famous [Dictionary of Japanese Grammar series](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546). See [this](https://djtguide.github.io/grammar/dojgmain.html) and [this](https://github.com/aiko-tanaka/Grammar-Dictionaries) also.
+  - [NihongoKyoshi deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view) - Monolingual deck based on [NihongoKyoshi](https://nihongokyoshi-net.com/). See [https://github.com/aiko-tanaka/Grammar-Dictionaries](also).
+  - [Bunpro deck](https://mega.nz/file/pZQUxLJB#uRuBfWzkCgwlunKc0kGS0YuMkeOLbbGeDJvntkBh_DE) - An anki deck made from [Bunpro](https://bunpro.jp/), a popular grammar app.
+
+- YouTube videos
+  - [Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa) - A popular channel explaining basic grammar points.
+  - [Game Gengo](https://www.youtube.com/c/GameGengo) - Another channel explaining Japanese grammar but through video games.
+  - [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - A popular series of video on Japanese grammar. Transcript [here](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit).
+ 
+- Monolingual resources
+  - [初級を教える人のための日本語文法ハンドブック](https://www.3anet.co.jp/np/books/4680/) - Fantastic Japanese book on Japanese grammar. Follow-up [here](https://www.3anet.co.jp/np/books/4682/).
+  - [庭三郎の現代日本語文法概説](https://djtguide.github.io/grammar/niwasaburoo/index.html) - Another great grammar guide written in Japanese.
+
 ## Mining
 
 ## Listening
