@@ -60,6 +60,10 @@ If you intend to do isolated kanji study, you can use the following resources. I
 
 ## Vocabulary
 
+Vocabulary refers to words, not kanji directly. Words are usually made up of kanji and one shouldn't confuse the two. As it is recommended to do a mining deck after learning basic vocabulary, there's only a single recommended resource.
+
+- [Kaishi 1.5k](https://github.com/donkuri/Kaishi/) - The recommended beginner vocabulary Anki deck. Latest release found [here](https://github.com/donkuri/Kaishi/releases) and [here](https://ankiweb.net/shared/info/1196762551).
+
 ## Grammar
 
 ## Mining
