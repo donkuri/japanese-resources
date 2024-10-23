@@ -1,6 +1,6 @@
 # Japanese Resources
 
-> An opinonated collection of Japanese resources meant to compliment immersion, see [here](https://donkuri.github.io/learn-japanese/guide/) for an explanation. A lot of these resources come from [here](https://donkuri.github.io/learn-japanese/resources/) as well as the TMW discord server's `#resources-sharing` channel.
+> An opinionated collection of Japanese resources meant to help you learn the language, see [here](https://donkuri.github.io/learn-japanese/guide/) for an explanation. A lot of these resources come from [here](https://donkuri.github.io/learn-japanese/resources/) as well as the TMW discord server's `#resources-sharing` channel.
 
 ## Learning guides
 
