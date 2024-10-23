@@ -8,7 +8,7 @@ This section is dedicated to Japanese learning guides. You should start here if 
 
 - [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need to learn Japanese. Written by [yours truly](https://github.com/donkuri/).
 - [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
-- [Animecards' learning Japanese guide](https://animecards.site/learningjapanese/) - A slightly more concise guide dedicated to learning Japanese through immersion. Written by QM.
+- [Animecards' learning Japanese guide](https://animecards.site/learningjapanese/) - A much more concise guide dedicated to learning Japanese through immersion, but not updated as often. Written by QM.
 
 ## Hiragana & Katakana
 
@@ -17,7 +17,6 @@ Hiragana and katakana (commonly called *kana* together) form two basic alphabets
 - Memorizing the kana
   - [Ved's kana learning game](https://vedxyz.github.io/kana/) - The most complete kana learning game. Do this for a few days to learn kana.
   - [DJT Kana](https://djtguide.neocities.org/kana/) - Same as above but slightly simpler. Made by the folks at DJT.
-  - [Taipo](https://euclidean-whale.itch.io/taipo) - 2D tower defense game that has you input kana.
   - [Tofugu's hiragana guide](https://www.tofugu.com/japanese/learn-hiragana/) - Another approach to learning hiragana with mnemonics.
  
 - Writing the kana
@@ -54,7 +53,6 @@ If you intend to do isolated kanji study, you can use the following resources. I
 - Kanji mnemonics
   - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - A shortened "recognition" version of [RTK](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921). **Disclaimer: The stories were taken from a website and some of there are pretty offensive.**
   - [Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268) - An arguably better version of Remembering the Kanji. Has [an accompanying Anki deck](https://ankiweb.net/shared/info/1564742924)
-  - [Basic Kanji Book 1](https://www.amazon.com/BASIC-KANJI-BOOK-Vol-1-2-C3-A8me-dp-4893589733/dp/4893589733/ref=dp_ob_title_bk) - A standard textbook on isolated kanji study with accompanying vocabulary.
  
 - Kanji phonetics
   - [Usagichan Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?usp=drive_link) - An Anki deck meant to help you learn phonetic radicals.
@@ -69,3 +67,9 @@ If you intend to do isolated kanji study, you can use the following resources. I
 ## Listening
 
 ## Writing
+
+Physically writing kanji is something you may or may not be interested in. Either way, [it is suggested you already be somewhat proficient in reading first](https://animecards.site/writingjapanese/) before you attempt to learn how to write kanji.
+
+- [Kanken deck](https://ankiweb.net/shared/info/759825185) - The recommended way to learn how to write kanji after you know how to read decently well.
+- [Kankenbros](https://rentry.org/kankenbros) - The place to look at if you're interested in passing the 漢字検定, 'kanji kentei'.
+- [Basic Kanji Book 1](https://www.amazon.com/BASIC-KANJI-BOOK-Vol-1-2-C3-A8me-dp-4893589733/dp/4893589733/ref=dp_ob_title_bk) - If you really insist on using a textbook, this is good.
