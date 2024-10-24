@@ -116,6 +116,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
   - [JL](https://github.com/rampaa/JL) - A program that grabs text from the clipboard or a websocket, allowing you to easily mine visual novels and the like.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
+  - [LunaHook](https://github.com/HIllya51/LunaHook) - An alternative to Textractor that works better for some visual novels. For example, it's compatible with Steins;Gate, unlike Textractor. Is compatible with Textractor plugins.
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
 
 - Tools
