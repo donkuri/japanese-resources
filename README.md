@@ -8,9 +8,8 @@ If you are interested in contributing, **make a pull request**.
 
 This section is dedicated to Japanese learning guides. Start here unless you know what you're doing.
 
-- **[Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/)** - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [kuri](https://github.com/donkuri/).
-- **[TMW's guide to learning Japanese](https://learnjapanese.moe/guide/)** - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
-- [Animecards' learning Japanese guide](https://animecards.site/learningjapanese/) - A much more concise guide dedicated to learning Japanese through immersion, but not updated as often. Written by QM.
+- [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [kuri](https://github.com/donkuri/).
+- [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
 
 ## Hiragana & Katakana
 
@@ -43,7 +42,7 @@ These two tools form the backbone of the current immersion-based Japanese learni
 - Miscellaneous
   - **[Anki Templates](https://chrisk91.me/post/2018-09-28-Anki-Templates-Introduction-HTML/)** - A handy guide explaining Anki card formatting.
   - [Marv's JP-Resources](https://github.com/MarvNC/JP-Resources) - Very handy collection of resources and tools written by [MarvNC](https://github.com/MarvNC).
-  - [JPDB](https://jpdb.io/) - A good alternative to Anki if you do not like it for some reason.
+  - [JPDB](https://jpdb.io/) - A good alternative to Anki if you do not like it for some reason. If you decide to use JPDB, read [this guide](https://docs.google.com/document/d/1UaukDdykpYXGFR37VhOaXK9NNGNGqxob7bNYSQQP6aI/edit?tab=t.0#heading=h.hpr0a6syyr08) and consider using [this](https://github.com/max-kamps/jpd-breader) and [this](https://github.com/Kagu-chan/jpdb.io).
 
 ## Kanji
 
@@ -108,17 +107,20 @@ Mining is the process of finding new words in immersion, usually by adding them 
 
 [Immersion](https://learnjapanese.moe/guide/#15-what-even-is-immersion) is the main tool we use to learn the language. See [the mining section](#mining) for an explanation on how to use some of these tools.
 
-- Immersion frameworks
+- Large frameworks
   - [ッツreader](https://reader.ttsu.app) - An online book reader supporting Yomitan to help you read (light) novels.
   - [asbplayer](https://github.com/killergerbah/asbplayer) - A browser-based media player to allow you to use Yomitan on subtitle files for anime and the like.
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for MPV made to help you create Anki cards from video with subtitles.
   - [mokuro](https://github.com/kha-white/mokuro) - An OCR made to turn manga into Yomitan-able files. You can also read from [the reader](https://reader.mokuro.app/) or [the catalog](https://catalog.mokuro.moe/).
   - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels.
+
+- Tools
+  -
  
-- Immersion advice
-  - [Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/) - A collection of thoughts on immersion to help people get into it. Written by [kuri](https://github.com/donkuri/).
-  - [How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse) - A discussion on immersion and how best to do it. Written by shoui.
+- Tips and tricks
+  - **[Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/)** - A collection of thoughts on immersion to help people get into it. Written by [kuri](https://github.com/donkuri/).
+  - **[How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse)** - A discussion on immersion and how best to do it. Written by shoui.
 
 - Recommendations
   - **[Japanese media recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540)** - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
