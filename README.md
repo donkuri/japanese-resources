@@ -121,6 +121,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
+  - [jimaku.cc](https://jimaku.cc/) - A website subtitles for anime.
   - [Renji's texthooker-ui](https://github.com/Renji-XD/texthooker-ui) - A great texthooker page using websockets.
   - [exSTATic](https://github.com/KamWithK/exSTATic) - A texthooker page complete with graphs and statistics. Uses websockets.
   - [ShareX](https://getsharex.com/) - Fully-featured screen recording suite that is useful for screenshots and audio recording.
@@ -132,9 +133,6 @@ Mining is the process of finding new words in immersion, usually by adding them 
 - Recommendations
   - **[Japanese media recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540)** - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
   - [Japanese recs](https://donkuri.github.io/learn-japanese/recs/) - A page listing media recommendations. Written by [kuri](https://github.com/donkuri).
-
-- Miscellaneous
-  - **[jimaku.cc](https://jimaku.cc/)** - A website with many different subtitles for anime.
 
 ## Listening
 
