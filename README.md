@@ -121,6 +121,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
 - Tools
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
+  - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
   - [jimaku.cc](https://jimaku.cc/) - A website subtitles for anime.
   - [Renji's texthooker-ui](https://github.com/Renji-XD/texthooker-ui) - A great texthooker page using websockets.
@@ -145,7 +146,6 @@ Listening is an important component of Japanese immersion.
   - [Podcast Republic](https://www.podcastrepublic.net/) - After changing your location to Japan, you can access a last catalog of Japanese podcasts.
   - [SpoonCast](https://www.spooncast.net/jp) - A variety of listening content.
   - [Numbers](https://langpractice.com/japanese) - A tool made to help you recognize and learn numbers in Japanese.
-  - [Whisper](https://subtitlewhisper.com/en) - An AI tool made to generate subtitles and transcriptions. Check out [this guide](https://docs.google.com/document/d/1QnJha6dxfjWBvG9yL0rpOWeMsZdGeiyuhO_kuQaNOLs/edit?tab=t.0#heading=h.dbsyiflokebs) for a simple setup.
 
 - Pitch accent
   - **[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)** - A great introduction to Japanese pitch accent.
