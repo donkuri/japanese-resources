@@ -134,6 +134,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
 - Recommendations
   - **[Japanese media recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540)** - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
   - [Japanese recs](https://donkuri.github.io/learn-japanese/recs/) - A page listing media recommendations. Written by [kuri](https://github.com/donkuri).
+  - [LearnNatively](https://learnnatively.com/) - Big collection of Japanese media graded by difficulty. Can also be used for logging immersion.
 
 ## Listening
 
