@@ -113,6 +113,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based media player meant to help you learn Japanese.
   - [mokuro](https://github.com/kha-white/mokuro) - An OCR made to turn manga into Yomitan-able files. You can also read from [the reader](https://reader.mokuro.app/) or [the catalog](https://catalog.mokuro.moe/).
   - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
+  - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
 
@@ -122,6 +123,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
   - [Renji's texthooker-ui](https://github.com/Renji-XD/texthooker-ui) - A great texthooker page using websockets.
   - [exSTATic](https://github.com/KamWithK/exSTATic) - A texthooker page complete with graphs and statistics. Uses websockets.
+  - [ShareX](https://getsharex.com/) - Fully-featured screen recording suite that is useful for screenshots and audio recording.
  
 - Tips and tricks
   - **[Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/)** - A collection of thoughts on immersion to help people get into it. Written by [kuri](https://github.com/donkuri/).
