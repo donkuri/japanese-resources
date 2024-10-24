@@ -114,6 +114,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [mokuro](https://github.com/kha-white/mokuro) - An OCR made to turn manga into Yomitan-able files. You can also read from [the reader](https://reader.mokuro.app/) or [the catalog](https://catalog.mokuro.moe/).
   - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
   - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
+  - [JL](https://github.com/rampaa/JL) - A program that grabs text from the clipboard or a websocket, allowing you to easily mine visual novels and the like.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
 
