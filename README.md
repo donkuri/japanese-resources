@@ -46,15 +46,19 @@ These two tools form the backbone of the current immersion-based Japanese learni
 
 ## Kanji
 
-If you intend to do isolated kanji study, you can use the following resources. **It is strongly suggested to skip straight to vocabulary** and to come back here if really needed, with maybe the exception of learning phonetics.
+If you intend to do isolated kanji study, you can use the following resources. **It is strongly suggested to skip straight to vocabulary** and to come back here if really needed, except for the miscellaneous part which can be used rightaway.
 
-- Kanji mnemonics
+- Mnemonics
   - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - A shortened "recognition" version of [RTK](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921). **Disclaimer: The stories were taken from a website and some of there are pretty offensive.**
   - [Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268) - An arguably better version of Remembering the Kanji. Has [an accompanying Anki deck](https://ankiweb.net/shared/info/1564742924)
  
-- Kanji phonetics
+- Phonetics
   - [Usagichan Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?usp=drive_link) - An Anki deck meant to help you learn phonetic radicals.
   - [Kanji Code](https://thekanjicode.com/) - A kanji phonetics book based on the PhD dissertation of the author. There is a [companion Anki deck](https://ankiweb.net/shared/info/470563167).
+
+- Miscellaneous
+  - [Kuuube Kanji Grid](https://ankiweb.net/shared/info/1610304449) - A very useful add-on that lets you see how many kanji you've learned in Anki.
+  - [Kanji Schizo](https://github.com/kaanium/new-kanji-finder) - This Python script lets you find new kanji in `.epub` or subtitle files.
 
 ## Vocabulary
 
