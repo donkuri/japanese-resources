@@ -4,6 +4,19 @@
 
 If you are interested in contributing, **make a pull request**.
 
+- [Learning guides](#learning-guides)
+- [Hiragana and Katakana](#hiragana-and-katakana)
+- [Anki and Yomitan](#anki-and-yomitan)
+- [Kanji](#kanji)
+- [Vocabulary](#vocabulary)
+- [Grammar](#grammar)
+- [Mining](#mining)
+- [Immersion](#immersion)
+- [Listening](#listening)
+- [Writing](#writing)
+- [Output](#output)
+
+
 ## Learning guides
 
 This section is dedicated to Japanese learning guides. Start here unless you know what you're doing.
@@ -11,7 +24,7 @@ This section is dedicated to Japanese learning guides. Start here unless you kno
 - [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [kuri](https://github.com/donkuri/).
 - [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
 
-## Hiragana & Katakana
+## Hiragana and Katakana
 
 Hiragana and katakana (commonly called *kana* together) form two basic alphabets used in Japanese. You may or may not want to learn how to write them, but at the very least you will need to be able to recognize and read them.
 
@@ -24,7 +37,7 @@ Hiragana and katakana (commonly called *kana* together) form two basic alphabets
   - [Takumi's hiragana writing guide](https://www.youtube.com/watch?v=wD3FJgij79c) - Learn how to write hiragana (if you want to).
   - [Takumi's katakana writing guide](https://www.youtube.com/watch?v=rf-n_qI2occ) - The same but for katakana.
 
-## Anki & Yomitan
+## Anki and Yomitan
 
 These two tools form the backbone of the current immersion-based Japanese learning community. As such, they deserve a special section.
 
