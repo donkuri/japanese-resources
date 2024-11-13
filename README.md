@@ -166,6 +166,7 @@ Physically writing kanji is something you may or may not be interested in. Eithe
 - [Kanken deck](https://ankiweb.net/shared/info/759825185) - The recommended way to learn how to write kanji after you know how to read decently well.
 - [Kankenbros](https://rentry.org/kankenbros) - The place to look at if you're interested in passing the 漢字検定, 'kanji kentei'.
 - [Basic Kanji Book 1](https://www.amazon.com/BASIC-KANJI-BOOK-Vol-1-2-C3-A8me-dp-4893589733/dp/4893589733/ref=dp_ob_title_bk) - If you really insist on using a textbook, this is good.
+- [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi) - Software to automatically create 原稿用紙 to practice writing kana and kanji.
 
 ## Output
 
