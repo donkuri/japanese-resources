@@ -111,6 +111,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Xelieu's mining setup](https://xelieu.github.io/jp-lazy-guide/setup/) - Another setup mining guide. Written by [Xelieu](https://github.com/xelieu).
  
 - Mining templates
+  - [Lapis](https://github.com/donkuri/lapis) - A new notetype combining the best of JPMN and JP-study below in a streamlined way that is compatible with many tools. Made by [ruri](https://github.com/bewizible) and [kuri](https://github.com/donkuri).
   - [jp-mining-note](https://arbyste.github.io/jp-mining-note-prerelease/) - A popular notetype for mining. Very feature-rich. Originally made by [aquafina](https://github.com/Aquafina-water-bottle/), now maintained by [arbyste](https://github.com/arbyste/).
   - [JP-study](https://github.com/rudnam/JP-study) - A collection of templates including a mining template. Made by [rudnam](https://github.com/rudnam).
   - [Crop Theft](https://github.com/Kuuuube/crop-theft) - A more minimalistic but complete mining notetype. Made by [kuuube](https://github.com/Kuuuube).
