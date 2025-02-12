@@ -29,13 +29,16 @@ This section is dedicated to Japanese learning guides. Start here unless you kno
 Hiragana and katakana (commonly called *kana* together) form two basic alphabets used in Japanese. You may or may not want to learn how to write them, but at the very least you will need to be able to recognize and read them.
 
 - Memorizing the kana
-  - **[Ved's kana learning game](https://vedxyz.github.io/kana/)** - The most complete kana learning game. Do this for a few days to learn kana.
-  - [DJT Kana](https://djtguide.neocities.org/kana/) - Same as above but slightly simpler. Made by the folks at DJT.
+  - **[Kuuube's kana learning game](https://kuuuube.github.io/kana-quiz/)** - Simple and clean. Great way to learn kana.
+  - [Ved's kana learning game](https://vedxyz.github.io/kana/) - This one has a few more explanations.
   - [Tofugu's hiragana guide](https://www.tofugu.com/japanese/learn-hiragana/) - Another approach to learning hiragana with mnemonics.
  
 - Writing the kana
   - [Takumi's hiragana writing guide](https://www.youtube.com/watch?v=wD3FJgij79c) - Learn how to write hiragana (if you want to).
   - [Takumi's katakana writing guide](https://www.youtube.com/watch?v=rf-n_qI2occ) - The same but for katakana.
+ 
+- Hentaigana
+  - [Kuuube's Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) - A way to input archaic (so-called 'hentaigana') characters.
 
 ## Anki and Yomitan
 
