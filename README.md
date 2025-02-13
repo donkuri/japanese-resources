@@ -92,7 +92,7 @@ Grammar is the glue that holds together words in Japanese.
   - [Tae Kim](https://guidetojapanese.org/learn/category/grammar-guide/grammar-start/) - A slightly older guide that introduces grammar in a casual manner.
 
 - Specific grammar points
-  - [コノム's guide to は and が](https://konomu.github.io/WA-GA-basics) - A well-written guide explaining one of the most complex grammar point in Japanese.
+  - [コノム's guide to は and が](https://konomu.github.io/wa-ga-basics) - A well-written guide explaining one of the most complex grammar point in Japanese.
  
 - Anki decks
   - [DOJG deck](https://dojgdeck.neocities.org/) - Based on the famous [Dictionary of Japanese Grammar series](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546). See [this](https://djtguide.github.io/grammar/dojgmain.html) and [this](https://github.com/aiko-tanaka/Grammar-Dictionaries) also.
