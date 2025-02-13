@@ -96,7 +96,7 @@ Grammar is the glue that holds together words in Japanese.
  
 - Anki decks
   - [DOJG deck](https://dojgdeck.neocities.org/) - Based on the famous [Dictionary of Japanese Grammar series](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546). See [this](https://djtguide.github.io/grammar/dojgmain.html) and [this](https://github.com/aiko-tanaka/Grammar-Dictionaries) also.
-  - **[NihongoKyoshi deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view)** - Monolingual deck based on [NihongoKyoshi](https://nihongokyoshi-net.com/). See [https://github.com/aiko-tanaka/Grammar-Dictionaries](also).
+  - **[NihongoKyoshi deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view)** - Monolingual deck based on [NihongoKyoshi](https://nihongokyoshi-net.com/).
   - [Bunpro deck](https://mega.nz/file/pZQUxLJB#uRuBfWzkCgwlunKc0kGS0YuMkeOLbbGeDJvntkBh_DE) - An anki deck made from [Bunpro](https://bunpro.jp/), a popular grammar app.
 
 - YouTube videos
