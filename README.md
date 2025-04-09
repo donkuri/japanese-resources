@@ -87,7 +87,7 @@ Vocabulary refers to words, not kanji directly. Words are usually made up of kan
 Grammar is the glue that holds together words in Japanese.
 
 - Guides
-  - **[Sakubi](https://sakubi.neocities.org/)** - A short and to the point grammar guide introducing the basics.
+  - **[Yokubi](https://yoku.bi/)** - A short and to the point grammar guide introducing the basics. Adapted from [Sakubi](https://sakubi.neocities.org/) by [Morg](https://morg.systems/).
   - [IMABI](https://imabi.org/) - Extremely comprehensive look at Japanese grammar, from the basics all the way to Classical Japanese.
   - [Tae Kim](https://guidetojapanese.org/learn/category/grammar-guide/grammar-start/) - A slightly older guide that introduces grammar in a casual manner.
 
