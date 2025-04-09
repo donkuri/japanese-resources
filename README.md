@@ -47,7 +47,7 @@ These two tools form the backbone of the current immersion-based Japanese learni
 - [Anki](https://apps.ankiweb.net/) - A [spaced-repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) used to memorize things, mostly vocabulary.
   - **[Anki manual](https://docs.ankiweb.net/#/)** - The official docs for Anki. You are encouraged to read at least [this](https://docs.ankiweb.net/getting-started.html). For an explanation of how FSRS (an important Anki algorithm) works, you can see this [tutorial and FAQ](https://github.com/open-spaced-repetition/fsrs4anki/blob/main/docs/tutorial.md).
   - **[Anki setup guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup)** - A guide explaining how to setup Anki as well as what it is. Written by [kuri](https://github.com/donkuri/).
-  - [Xelieu's Anki setup](https://xelieu.github.io/jp-lazy-guide/setupAnki/) - Another setup guide for Anki. Written by [Xelieu](https://github.com/xelieu).
+  - [Xelieu's Anki setup](https://lazyguidejp.github.io/jp-lazy-guide/) - Another setup guide for Anki. Written by [Xelieu](https://github.com/xelieu).
  
 - [Yomitan](https://yomitan.wiki/) - A pop-up dictionary browser extension that lets you analyze words and grammar on the fly.
   - **[Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)** - A guide explaining how to setup Yomitan as well as what it is. Written by [kuri](https://github.com/donkuri/).
