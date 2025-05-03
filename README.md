@@ -174,6 +174,7 @@ Listening is an important component of Japanese immersion.
 
 - Pitch accent
   - **[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)** - A great introduction to Japanese pitch accent.
+  - **[kotu.io](https://kotu.io/)** A website made to help you recognize pitch accent. Requires registration but is easy to do. A backup of the website's minimal pairs function is available on [Kuuube's page](https://kuuuube.github.io/minimal-pairs/).
   - [NotOrange's notes on pitch](https://docs.google.com/document/d/1e5DUuDLPKzYnyX9ZZPp2CXLoxk1ZPwH-Q0a0XCQA-Yc/edit?tab=t.0#heading=h.cgsroygtuckp) - NotOrange's notes on Japanese pitch accent.
   - [xythh's resources](https://xythh.github.io/resources) - A collection of resources on learning Japanese pitch accent. Made by [xythh](https://github.com/xythh).
   - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020) - Native Japanese discussing pitch accent and why it matters.
