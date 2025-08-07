@@ -136,9 +136,11 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
   - [JL](https://github.com/rampaa/JL) - A program that grabs text from the clipboard or a websocket, allowing you to easily mine visual novels and the like.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
+  - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) - Immersion framework on top of Yomitan and a text hooker, made to automate a lot of the Anki card creation process.
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
 
 - Tools
+  - [Jiten](https://jiten.moe/) - Similar to JPDB, lists media with statistical information about unique words, kanji, etc.
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
   - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
