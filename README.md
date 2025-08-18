@@ -31,14 +31,14 @@ This section is dedicated to Japanese learning guides. Start here unless you kno
 Hiragana and katakana (commonly called *kana* together) form two basic alphabets used in Japanese. You may or may not want to learn how to write them, but at the very least you will need to be able to recognize and read them.
 
 - Memorizing the kana
-  - **[Kuuube's kana learning game](https://kuuuube.github.io/kana-quiz/)** - Simple and clean. Great way to learn kana.
+  - **[Kuuube's kana learning game](https://kuuuube.github.io/kana-quiz/)** - Simple and clean. Great way to learn kana. See the [audio version](https://kuuuube.github.io/kana-quiz/kana/) as well.
   - [Ved's kana learning game](https://vedxyz.github.io/kana/) - This one has a few more explanations.
   - [Tofugu's hiragana guide](https://www.tofugu.com/japanese/learn-hiragana/) - Another approach to learning hiragana with mnemonics.
- 
+
 - Writing the kana
   - [Takumi's hiragana writing guide](https://www.youtube.com/watch?v=wD3FJgij79c) - Learn how to write hiragana (if you want to).
   - [Takumi's katakana writing guide](https://www.youtube.com/watch?v=rf-n_qI2occ) - The same but for katakana.
- 
+
 - Hentaigana
   - [Kuuube's Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) - A way to input archaic (so-called 'hentaigana') characters.
 
@@ -52,13 +52,13 @@ These two tools form the backbone of the current immersion-based Japanese learni
   - [Xelieu's Anki setup](https://lazyguidejp.github.io/jp-lazy-guide/) - Another setup guide for Anki. Written by [Xelieu](https://github.com/xelieu).
   - [Anki Templates](https://chrisk91.me/post/2018-09-28-Anki-Templates-Introduction-HTML/) - A handy guide explaining Anki card formatting.
   - [backfill-anki-yomitan](https://github.com/Manhhao/backfill-anki-yomitan) - An amazing new add-on that allows us to backfill various fields in Anki through Yomitan's API.
- 
+
 - [Yomitan](https://yomitan.wiki/) - A pop-up dictionary browser extension that lets you analyze words and grammar on the fly.
   - **[Yomitan setup guide](https://donkuri.github.io/learn-japanese/setup/#yomitan-setup)** - A guide explaining how to setup Yomitan as well as what it is. Written by [kuri](https://github.com/donkuri/).
   - [Xelieu's Yomitan setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) - Another setup guide for Yomitan. Written by [Xelieu](https://github.com/xelieu).
   - [Xelieu's Yomitan on Android setup](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) - A setup guide for Yomitan on Android devices. Written by [Xelieu](https://github.com/xelieu).
   - [QM's Yomitan Audio](https://animecards.site/yomitan_audio/) - A fantastic new tool to help you get accurate audio on Yomitan whenever possible.
-  - [Marv's dictionary collection](https://github.com/MarvNC/yomitan-dictionaries) - A collection of Yomitan dictionaries hosted by [MarvNC](https://github.com/MarvNC).
+  - **[Marv's dictionary collection](https://github.com/MarvNC/yomitan-dictionaries)** - A collection of Yomitan dictionaries hosted by [MarvNC](https://github.com/MarvNC).
 
 - Miscellaneous
   - [Marv's JP-Resources](https://github.com/MarvNC/JP-Resources) - Very handy collection of resources and tools written by [MarvNC](https://github.com/MarvNC).
@@ -71,7 +71,7 @@ If you intend to do isolated kanji study, you can use the following resources. *
 - Mnemonics
   - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - A shortened "recognition" version of [RTK](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921). **Disclaimer: The stories were taken from a website and some of them are pretty offensive.**
   - [Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268) - An arguably better version of Remembering the Kanji. Has [an accompanying Anki deck](https://ankiweb.net/shared/info/1564742924)
- 
+
 - Phonetics
   - [Usagichan Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?usp=drive_link) - An Anki deck meant to help you learn phonetic radicals.
   - [Kanji Code](https://thekanjicode.com/) - A kanji phonetics book based on the PhD dissertation of the author. There is a [companion Anki deck](https://ankiweb.net/shared/info/470563167).
@@ -100,7 +100,7 @@ Grammar is the glue that holds together words in Japanese.
 
 - Specific grammar points
   - [コノム's guide to は and が](https://konomu.github.io/wa-ga-basics) - A well-written guide explaining one of the most complex grammar point in Japanese.
- 
+
 - Anki decks
   - **[NihongoKyoshi deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view)** - Monolingual deck based on [NihongoKyoshi](https://nihongokyoshi-net.com/).
   - [DOJG deck](https://dojgdeck.neocities.org/) - Based on the famous [Dictionary of Japanese Grammar series](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546). See [this](https://djtguide.github.io/grammar/dojgmain.html) and [this](https://github.com/aiko-tanaka/Grammar-Dictionaries) also.
@@ -112,7 +112,7 @@ Grammar is the glue that holds together words in Japanese.
   - [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - A popular series of video on Japanese grammar. Transcript [here](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit).
   - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm) - An older but still popular series on Japanese grammar.
   - [国語文法](https://www.youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd) - Japanese grammar as it is presented in Japanese schools.
- 
+
 - Monolingual resources
   - **[初級を教える人のための日本語文法ハンドブック](https://www.3anet.co.jp/np/books/4680/)** - Fantastic Japanese book on Japanese grammar. Follow-up [here](https://www.3anet.co.jp/np/books/4682/).
   - [現代日本語文法](https://www.9640.jp/book_view/?475) - A monster 7-volume series on Japanese grammar written by a collective of linguists. Extremely extensive.
@@ -126,13 +126,14 @@ Mining is the process of finding new words in immersion, usually by adding them 
 - Mining setups
   - **[Mining setup guide](https://donkuri.github.io/learn-japanese/mining/)** - A guide to mining along with setups for most common forms of media. Written by [kuri](https://github.com/donkuri/).
   - [Xelieu's mining setup](https://lazyguidejp.github.io/jp-lazy-guide/) - Another setup mining guide. Written by [Xelieu](https://github.com/xelieu).
- 
+
 - Mining templates
   - [Lapis](https://github.com/donkuri/lapis) - A new notetype combining the best of JPMN and JP-study below in a streamlined way that is compatible with many tools. Made by [ruri](https://github.com/bewizible) and [kuri](https://github.com/donkuri).
   - [Senren](https://brenoaqua.github.io/Senren/) - Another new notetype with a very full set of features and a clean-looking UI. Made by [BrenoAqua](https://github.com/BrenoAqua).
   - [jp-mining-note](https://arbyste.github.io/jp-mining-note-prerelease/) - A popular notetype for mining. Very feature-rich. Originally made by [aquafina](https://github.com/Aquafina-water-bottle/), now maintained by [arbyste](https://github.com/arbyste/).
   - [JP-study](https://github.com/rudnam/JP-study) - A collection of templates including a mining template. Made by [rudnam](https://github.com/rudnam).
   - [Crop Theft](https://github.com/Kuuuube/crop-theft) - A more minimalistic but complete mining notetype. Made by [kuuube](https://github.com/Kuuuube).
+  - [Vertical Cards](https://github.com/kiwakiwaa/vertical-cards/) - A bit of a different take on Anki notetypes. Allows for vertical content. Made by [kiwakiwaa](https://github.com/kiwakiwaa).
 
 ## Immersion
 
@@ -146,14 +147,18 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
   - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
   - [JL](https://github.com/rampaa/JL) - A program that grabs text from the clipboard or a websocket, allowing you to easily mine visual novels and the like.
+  - [Mangatan](https://github.com/kaihouguide/Mangatan) - A somewhat involved manga OCR server using Suwayomi, an alternative to Tachiyomi on desktop.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
   - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) - Immersion framework on top of Yomitan and a text hooker, made to automate a lot of the Anki card creation process. Written by [Beangate](https://github.com/bpwhelan).
+  - [meikipop](https://github.com/rtr46/meikipop) - An OCR popup dictionary. Supports JMdict and doesn't feature mining, but still amazing. Also check out the rest of [rtr46's work](https://github.com/rtr46).
+  - [リーダー](https://github.com/21repierre/riidaa/) - An iPad app designed to let you read mokuro'd manga with Yomitan dictionaries.
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
 
 - Tools
   - **[Jiten](https://jiten.moe/)** - Similar to JPDB, lists media with statistical information about unique words, kanji, etc.
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
+  - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - An iOS (MacOS maybe supported?) EPUB reader with look-up functionality. Compatible with many Yomitan dictionaries.
   - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
   - [jimaku.cc](https://jimaku.cc/) - A website subtitles for anime.
@@ -161,7 +166,8 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [exSTATic](https://github.com/KamWithK/exSTATic) - A texthooker page complete with graphs and statistics. Uses websockets.
   - [ShareX](https://getsharex.com/) - Fully-featured screen recording suite that is useful for screenshots and audio recording.
   - [Japanese Text Analyzer](https://sourceforge.net/projects/japanesetextana/) - A rather old (but useful) Windows-only tool to analyze Japanese text.
- 
+  - [imajin](github.com/YonKuma/imajin.py) - CLI tool to search through EPUBs and mokuro files for words and sentences.
+
 - Tips and tricks
   - **[Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/)** - A collection of thoughts on immersion to help people get into it. Written by [kuri](https://github.com/donkuri/).
   - **[How to immerse](https://learnjapanese.moe/guide/#27-how-to-immerse)** - A discussion on immersion and how best to do it. Written by shoui.
@@ -170,18 +176,20 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - **[Japanese media recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540)** - A Japanese media recommendation spreadsheet listing various along with a difficulty description. Managed by [kuri](https://github.com/donkuri/).
   - [Japanese recs](https://donkuri.github.io/learn-japanese/recs/) - A page listing media recommendations. Written by [kuri](https://github.com/donkuri).
   - [LearnNatively](https://learnnatively.com/) - Big collection of Japanese media graded by difficulty. Can also be used for logging immersion.
- 
+
 - Logging immersion
   - **[Japanese Immersion Tracker](https://immersion.bremgovi.com/)** - A local, fully-featured immersion tracker for reading. Made by [emi](https://github.com/Bremgovi).
   - [Xelieu's immersion spreadsheet](https://lazyguidejp.github.io/jp-lazy-guide/immersionDataSpreadsheet/) - A spreadsheet made to log your immersion. Made by [Xelieu](https://github.com/xelieu).
   - [ねむい's anime logging spreadsheet](https://docs.google.com/spreadsheets/d/1CJ5rRmQYg6ckm0U56d3R_IIJBfHiEIZgKfBX4J-sXEs/edit?gid=0#gid=0) - A spreadsheet made by ねむい to log your anime immersion.
   - [HoriSan](https://github.com/Flare155/HoriSanBot) - A feature-full Discord bot to log your immersion. Written by [Flare](https://github.com/Flare155).
+  - [tadoku](https://github.com/Eroge-Abyss/tadoku) - A fully-featured visual novel tracker. Requires you to build locally.
 
 - Example sentences
   - **[massif.la](https://massif.la/ja)** - A website aggregating a lot of Japanese example sentences.
+  - [Nadeshiko](https://nadeshiko.co/) - Online sentence search engine using anime, movies, etc. Provides an API.
   - [Aozora Bunko example sentences](https://kanji.reader.bz/examples/) - Lets you search for example sentences among [青空文庫 works](https://www.aozora.gr.jp/).
   - [Sentence Search](https://sentencesearch.neocities.org/) - A website allowing you to search for Japanese sentences with native audio. The audio itself can be downloaded from [here](https://mega.nz/folder/A7BGBLCC#0bmwb10zeVtoNwFCn4ua4g).
-    
+
 ## Listening
 
 Listening is an important component of Japanese immersion.
@@ -229,6 +237,7 @@ Resource aggregators are pages that link a variety of Japanese resource, like th
 - [morg.systems](https://morg.systems/) - Tons of information on learning Japanese.
 - [GaijinRyman's Resources List](https://github.com/GaijinRyman/JapaneseResources) - GitHub page listing various Japanese-learning resources and the like.
 - [Languagegainz Resources](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#) An unofficial list of resources from the Languagegainz Discord. Not officially endorsed by Aussieman (the creator of the Discord).
+- [Wotaku's Language Section](https://wotaku.wiki/japan/language) - A list of Japanese learning websites and tools.
 
 ## Miscellaneaous
 
@@ -236,6 +245,7 @@ This section contains resources that don't quite fit anywhere else.
 
 - [Irocore](https://irocore.com/) - Japanese color dictionary.
 - [fontplus.jp](https://fontplus.jp/font-list/hiraminpron-w3) - A website with various Japanese fonts on display.
+- [Hissatsuwaza](https://hissatuwaza.kill.jp/index.htm) - A dictionary for fighting moves you might see in anime or manga.
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Really cool locale emulator (as the name suggests). Lets you use applications with a Japanese locale without changing your system settings.
 - [LE Shortcut Creator](https://github.com/Svintooo/LEShortcutCreator) - Great app that creates shortcuts for applications that will run through Locale Emulator above so you don't need to change your locale to Japanese to use the applications.
 - [Free Programming Books JP](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) - The Japanese section of the free programming books GitHub repo. Now you can re-learn your favorite programming language in Japanese! *I recommend Clojure.*
