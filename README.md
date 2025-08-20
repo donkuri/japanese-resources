@@ -159,6 +159,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
   - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - An iOS (MacOS maybe supported?) EPUB reader with look-up functionality. Compatible with many Yomitan dictionaries.
+  - [Yomine](https://github.com/mcgrizzz/Yomine) - Integrates with various other mining frameworks (notably ASBPlayer) to help you mine most effectively, helping you see what to mine instead of just mining everything.
   - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
   - [jimaku.cc](https://jimaku.cc/) - A website subtitles for anime.
@@ -245,6 +246,7 @@ This section contains resources that don't quite fit anywhere else.
 
 - [Irocore](https://irocore.com/) - Japanese color dictionary.
 - [fontplus.jp](https://fontplus.jp/font-list/hiraminpron-w3) - A website with various Japanese fonts on display.
+- [Google Fonts](https://fonts.google.com/) - Free fonts, including Japanese ones.
 - [Hissatsuwaza](https://hissatuwaza.kill.jp/index.htm) - A dictionary for fighting moves you might see in anime or manga.
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Really cool locale emulator (as the name suggests). Lets you use applications with a Japanese locale without changing your system settings.
 - [LE Shortcut Creator](https://github.com/Svintooo/LEShortcutCreator) - Great app that creates shortcuts for applications that will run through Locale Emulator above so you don't need to change your locale to Japanese to use the applications.
