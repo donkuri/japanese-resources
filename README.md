@@ -246,6 +246,7 @@ This section contains resources that don't quite fit anywhere else.
 
 - [Irocore](https://irocore.com/) - Japanese color dictionary.
 - [fontplus.jp](https://fontplus.jp/font-list/hiraminpron-w3) - A website with various Japanese fonts on display.
+- [Jigmo フォント](https://kamichikoichi.github.io/jigmo/) - Jigmo is a set of free fonts that is a great fallback for more obscure kanji.
 - [Google Fonts](https://fonts.google.com/) - Free fonts, including Japanese ones.
 - [Hissatsuwaza](https://hissatuwaza.kill.jp/index.htm) - A dictionary for fighting moves you might see in anime or manga.
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Really cool locale emulator (as the name suggests). Lets you use applications with a Japanese locale without changing your system settings.
