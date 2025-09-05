@@ -66,7 +66,7 @@ These two tools form the backbone of the current immersion-based Japanese learni
 
 ## Kanji
 
-If you intend to do isolated kanji study, you can use the following resources. **It is strongly suggested to skip straight to vocabulary** and to come back here if really needed, except for the miscellaneous part which can be used rightaway.
+Various resources for kanji. **If you're wondering whether you should do isolated kanji study, please [read this article on it](https://donkuri.github.io/learn-japanese/guide/#on-the-topic-of-isolated-kanji-study)**.
 
 - Mnemonics
   - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - A shortened "recognition" version of [RTK](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921). **Disclaimer: The stories were taken from a website and some of them are pretty offensive.**
@@ -75,6 +75,10 @@ If you intend to do isolated kanji study, you can use the following resources. *
 - Phonetics
   - [Usagichan Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?usp=drive_link) - An Anki deck meant to help you learn phonetic radicals.
   - [Kanji Code](https://thekanjicode.com/) - A kanji phonetics book based on the PhD dissertation of the author. There is a [companion Anki deck](https://ankiweb.net/shared/info/470563167).
+
+- Search tools
+  - [Kanji Punt Gun](https://kuuuube.github.io/kanji-puntgun/) - Pretty complete kanji search tool based on both components and radicals.
+  - [wareya](http://kanji.wareya.moe/) - Another search tool based on kanji composition.
 
 - Miscellaneous
   - [Kuuube Kanji Grid](https://ankiweb.net/shared/info/1610304449) - A very useful add-on that lets you see how many kanji you've learned in Anki.
