@@ -168,6 +168,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
   - [jimaku.cc](https://jimaku.cc/) - A website subtitles for anime.
   - [Renji's texthooker-ui](https://github.com/Renji-XD/texthooker-ui) - A great texthooker page using websockets.
+  - [Renji's ttu-whispersync](https://github.com/Renji-XD/ttu-whispersync) - Lets you listen to audiobooks with [ッツreader](https://reader.ttsu.app).
   - [exSTATic](https://github.com/KamWithK/exSTATic) - A texthooker page complete with graphs and statistics. Uses websockets.
   - [ShareX](https://getsharex.com/) - Fully-featured screen recording suite that is useful for screenshots and audio recording.
   - [Japanese Text Analyzer](https://sourceforge.net/projects/japanesetextana/) - A rather old (but useful) Windows-only tool to analyze Japanese text.
