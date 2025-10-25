@@ -173,7 +173,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [exSTATic](https://github.com/KamWithK/exSTATic) - A texthooker page complete with graphs and statistics. Uses websockets.
   - [ShareX](https://getsharex.com/) - Fully-featured screen recording suite that is useful for screenshots and audio recording.
   - [Japanese Text Analyzer](https://sourceforge.net/projects/japanesetextana/) - A rather old (but useful) Windows-only tool to analyze Japanese text.
-  - [imajin](github.com/YonKuma/imajin.py) - CLI tool to search through EPUBs and mokuro files for words and sentences.
+  - [imajin](https://github.com/YonKuma/imajin.py) - CLI tool to search through EPUBs and mokuro files for words and sentences.
 
 - Tips and tricks
   - **[Thoughts on immersion](https://donkuri.github.io/learn-japanese/immersion/)** - A collection of thoughts on immersion to help people get into it. Written by [kuri](https://github.com/donkuri/).
