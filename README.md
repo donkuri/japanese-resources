@@ -4,20 +4,19 @@
 
 If you are interested in contributing, **make a pull request**.
 
-- [Japanese Resources](#japanese-resources)
-  - [Learning guides](#learning-guides)
-  - [Hiragana and Katakana](#hiragana-and-katakana)
-  - [Anki and Yomitan](#anki-and-yomitan)
-  - [Kanji](#kanji)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-  - [Mining](#mining)
-  - [Immersion](#immersion)
-  - [Listening](#listening)
-  - [Writing](#writing)
-  - [Output](#output)
-  - [Resource aggregators](#resource-aggregators)
-  - [Miscellaneaous](#miscellaneaous)
+- [Learning guides](#learning-guides)
+- [Hiragana and Katakana](#hiragana-and-katakana)
+- [Anki and Yomitan](#anki-and-yomitan)
+- [Kanji](#kanji)
+- [Vocabulary](#vocabulary)
+- [Grammar](#grammar)
+- [Mining](#mining)
+- [Immersion](#immersion)
+- [Listening](#listening)
+- [Writing](#writing)
+- [Output](#output)
+- [Resource aggregators](#resource-aggregators)
+- [Miscellaneaous](#miscellaneaous)
 
 
 ## Learning guides
