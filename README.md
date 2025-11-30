@@ -15,8 +15,8 @@ If you are interested in contributing, **make a pull request**.
 - [Listening](#listening)
 - [Writing](#writing)
 - [Output](#output)
-- [Resource aggregators](#resource-aggregators)
-- [Miscellaneaous](#miscellaneaous)
+- [Resource Aggregators](#resource-aggregators)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Learning guides
