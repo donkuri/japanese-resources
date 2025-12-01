@@ -113,7 +113,7 @@ Grammar is the glue that holds together words in Japanese.
 - YouTube videos
   - [Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa) - A popular channel explaining basic grammar points.
   - [Game Gengo](https://www.youtube.com/c/GameGengo) - Another channel explaining Japanese grammar but through video games.
-  - [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - A popular series of video on Japanese grammar. Transcript [here](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit).
+  - [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - A popular series of video on Japanese grammar. Transcript [here](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit). Markdown version of that script is [here](https://kellenok.github.io/cure-script/).
   - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm) - An older but still popular series on Japanese grammar.
   - [国語文法](https://www.youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd) - Japanese grammar as it is presented in Japanese schools.
 
@@ -122,6 +122,8 @@ Grammar is the glue that holds together words in Japanese.
   - [現代日本語文法](https://www.9640.jp/book_view/?475) - A monster 7-volume series on Japanese grammar written by a collective of linguists. Extremely extensive.
   - [庭三郎の現代日本語文法概説](https://djtguide.github.io/grammar/niwasaburoo/index.html) - Another great grammar guide written in Japanese.
   - [国語の文法](https://www.kokugobunpou.com/#gsc.tab=0) - A website discussing grammar as it is taught in Japanese schools.
+  - [日本語文法の基礎](https://wordrabbit.jp/grammar/) - Easy to understand explanation of the Japanese grammar.
+  - [東京外国語大学言語モジュール](https://www.coelang.tufs.ac.jp/mt/ja/gmod/steplist.html) - Japanese grammar explained by the Tokyo University of Foreign Studies.
 
 ## Mining
 
@@ -258,3 +260,4 @@ This section contains resources that don't quite fit anywhere else.
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Really cool locale emulator (as the name suggests). Lets you use applications with a Japanese locale without changing your system settings.
 - [LE Shortcut Creator](https://github.com/Svintooo/LEShortcutCreator) - Great app that creates shortcuts for applications that will run through Locale Emulator above so you don't need to change your locale to Japanese to use the applications.
 - [Free Programming Books JP](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) - The Japanese section of the free programming books GitHub repo. Now you can re-learn your favorite programming language in Japanese! *I recommend Clojure.*
+- [Irodori: Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/) - Free Japanese learning textbooks for beginners. Their curriculum focuses on listening input a lot, so they provided plenty of free audio files for their lessons.
