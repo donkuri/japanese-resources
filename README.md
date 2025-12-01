@@ -248,7 +248,7 @@ Resource aggregators are pages that link a variety of Japanese resource, like th
 - [Languagegainz Resources](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#) An unofficial list of resources from the Languagegainz Discord. Not officially endorsed by Aussieman (the creator of the Discord).
 - [Wotaku's Language Section](https://wotaku.wiki/japan/language) - A list of Japanese learning websites and tools.
 
-## Miscellaneaous
+## Miscellaneous
 
 This section contains resources that don't quite fit anywhere else.
 
