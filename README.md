@@ -157,6 +157,8 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
   - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) - Immersion framework on top of Yomitan and a text hooker, made to automate a lot of the Anki card creation process. Written by [Beangate](https://github.com/bpwhelan).
   - [meikipop](https://github.com/rtr46/meikipop) - An OCR popup dictionary. Supports JMdict and doesn't feature mining, but still amazing. Also check out the rest of [rtr46's work](https://github.com/rtr46).
+  - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - An iOS (MacOS maybe supported?) EPUB reader with look-up functionality. Compatible with many Yomitan dictionaries.
+  - [Manabi Reader](https://reader.manabi.io/) - Another fully-featured iOS reader with dictionary and Anki support. Has a [companion flashcards app](https://manabi.io/).
   - [リーダー](https://github.com/21repierre/riidaa/) - An iPad app designed to let you read mokuro'd manga with Yomitan dictionaries.
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
   - [Lumi Reader](https://lumireader.app) *(Beta)* - A fast e-book reader with offline support, reading stats, bookmarks, social features, and Yomitan compatibility.
@@ -165,7 +167,6 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - **[Jiten](https://jiten.moe/)** - Similar to JPDB, lists media with statistical information about unique words, kanji, etc.
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
-  - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - An iOS (MacOS maybe supported?) EPUB reader with look-up functionality. Compatible with many Yomitan dictionaries.
   - [Yomine](https://github.com/mcgrizzz/Yomine) - Integrates with various other mining frameworks (notably ASBPlayer) to help you mine most effectively, helping you see what to mine instead of just mining everything.
   - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
