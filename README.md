@@ -210,6 +210,7 @@ Listening is an important component of Japanese immersion.
   - [SpoonCast](https://www.spooncast.net/jp) - A variety of listening content.
   - [Numbers](https://langpractice.com/japanese) - A tool made to help you recognize and learn numbers in Japanese.
   - [Whisper](https://subtitlewhisper.com/en) - An AI tool made to generate subtitles and transcriptions. Check out [this guide](https://docs.google.com/document/d/1QnJha6dxfjWBvG9yL0rpOWeMsZdGeiyuhO_kuQaNOLs/edit?tab=t.0#heading=h.dbsyiflokebs) for a simple setup.
+  - [Mimikaki](https://mimikaki.online) - A web-based transcription tool for Japanese audio/video. Generates transcripts with furigana, dictionary lookups, and exports to Anki (.apkg) and subtitle files.
 
 - Pitch accent
   - **[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)** - A great introduction to Japanese pitch accent.
