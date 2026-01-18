@@ -119,7 +119,7 @@ Grammar is the glue that holds together words in Japanese.
 
 - Monolingual resources
   - **[初級を教える人のための日本語文法ハンドブック](https://www.3anet.co.jp/np/books/4680/)** - Fantastic Japanese book on Japanese grammar. Follow-up [here](https://www.3anet.co.jp/np/books/4682/).
-  - [現代日本語文法](https://www.9640.jp/book_view/?475) - A monster 7-volume series on Japanese grammar written by a collective of linguists. Extremely extensive.
+  - [現代日本語文法](https://www.9640.jp/book_view/?475) - A monster 7-volume series on Japanese grammar written by a collective of linguists. Extremely comprehensive.
   - [庭三郎の現代日本語文法概説](https://djtguide.github.io/grammar/niwasaburoo/index.html) - Another great grammar guide written in Japanese.
   - [国語の文法](https://www.kokugobunpou.com/#gsc.tab=0) - A website discussing grammar as it is taught in Japanese schools.
   - [日本語文法の基礎](https://wordrabbit.jp/grammar/) - Easy to understand explanation of the Japanese grammar.
@@ -167,6 +167,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - **[Jiten](https://jiten.moe/)** - Similar to JPDB, lists media with statistical information about unique words, kanji, etc.
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - A script for mpv made to help you create Anki cards from video with subtitles.
   - [Anacreon's mpv script](https://anacreondjt.gitlab.io/docs/mpvscript/) - Another popular script for mpv to create Anki cards from anime.
+  - [Autocards](https://learnjapanese.moe/autocards/) - One click anime (but other subtitled video works too) mining setup for Windows.
   - [Yomine](https://github.com/mcgrizzz/Yomine) - Integrates with various other mining frameworks (notably ASBPlayer) to help you mine most effectively, helping you see what to mine instead of just mining everything.
   - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
