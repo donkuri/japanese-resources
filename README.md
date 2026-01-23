@@ -191,6 +191,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
 
 - Logging immersion
   - **[Japanese Immersion Tracker](https://immersion.bremgovi.com/)** - A local, fully-featured immersion tracker for reading. Made by [emi](https://github.com/Bremgovi).
+  - **[Kizuna](https://kizuna-texthooker-ui.app/)** - Collaborative immersion tracking tool that lets you compare how much you've read with others in rooms. Made by viniciusgm.
   - [Xelieu's immersion spreadsheet](https://lazyguidejp.github.io/jp-lazy-guide/immersionDataSpreadsheet/) - A spreadsheet made to log your immersion. Made by [Xelieu](https://github.com/xelieu).
   - [ねむい's anime logging spreadsheet](https://docs.google.com/spreadsheets/d/1CJ5rRmQYg6ckm0U56d3R_IIJBfHiEIZgKfBX4J-sXEs/edit?gid=0#gid=0) - A spreadsheet made by ねむい to log your anime immersion.
   - [HoriSan](https://github.com/Flare155/HoriSanBot) - A feature-full Discord bot to log your immersion. Written by [Flare](https://github.com/Flare155).
