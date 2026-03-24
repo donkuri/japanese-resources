@@ -219,6 +219,9 @@ Listening is an important component of Japanese immersion.
   - [Numbers](https://langpractice.com/japanese) - A tool made to help you recognize and learn numbers in Japanese.
   - [Whisper](https://subtitlewhisper.com/en) - An AI tool made to generate subtitles and transcriptions. Check out [this guide](https://docs.google.com/document/d/1QnJha6dxfjWBvG9yL0rpOWeMsZdGeiyuhO_kuQaNOLs/edit?tab=t.0#heading=h.dbsyiflokebs) for a simple setup.
 
+- Podcasts
+  - [After Hours（アフターアワーズ）](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd) - A weekly casual conversation podcast by two native Japanese speakers in their 20s. Unscripted dialogue with natural 若者言葉 and slang, great for intermediate-advanced listening practice. Available on [Spotify](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd), [Apple Podcasts](https://podcasts.apple.com/podcast/id1574825253), and [YouTube](https://www.youtube.com/@after_hours_podcast).
+
 - Pitch accent
   - **[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)** - A great introduction to Japanese pitch accent.
   - **[kotu.io](https://kotu.io/)** A website made to help you recognize pitch accent. Requires registration but is easy to do. A backup of the website's minimal pairs function is available on [Kuuube's page](https://kuuuube.github.io/minimal-pairs/).
