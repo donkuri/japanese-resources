@@ -151,7 +151,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [ッツreader](https://reader.ttsu.app) - An online book reader supporting Yomitan to help you read (light) novels.
   - [asbplayer](https://github.com/killergerbah/asbplayer) - A browser-based media player to allow you to use Yomitan on subtitle files for anime and the like.
   - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based media player meant to help you learn Japanese.
-  - [mokuro](https://github.com/kha-white/mokuro) - An OCR made to turn manga into Yomitan-able files. You can also read from [the reader](https://reader.mokuro.app/) or [the catalog](https://catalog.mokuro.moe/).
+  - [mokuro](https://github.com/kha-white/mokuro) - An OCR made to turn manga into Yomitan-able files. You can also read from [the reader](https://reader.mokuro.app/) or [the catalog](https://mokuro.moe/catalog)).
   - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
   - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
   - [JL](https://github.com/rampaa/JL) - A program that grabs text from the clipboard or a websocket, allowing you to easily mine visual novels and the like.
