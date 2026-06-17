@@ -160,6 +160,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) - Immersion framework on top of Yomitan and a text hooker, made to automate a lot of the Anki card creation process. Written by [Beangate](https://github.com/bpwhelan).
   - [meikipop](https://github.com/rtr46/meikipop) - An OCR popup dictionary. Supports JMdict and doesn't feature mining, but still amazing. Also check out the rest of [rtr46's work](https://github.com/rtr46).
   - [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader) - An iOS reader made to emulate ッツreader, meaning that 縦書き is supported. Lapis compatible. Made by [Manhhao](https://github.com/Manhhao).
+  - [Hoshi Reader Android](github.com/HuangAntimony/Hoshi-Reader-Android) - Fork of the above for Android. Made by [Antimony](github.com/HuangAntimony/).
   - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - Another iOS (MacOS maybe supported?) EPUB reader with look-up functionality. Compatible with many Yomitan dictionaries.
   - [Manabi Reader](https://reader.manabi.io/) - Another fully-featured iOS reader with dictionary and Anki support. Has a [companion flashcards app](https://manabi.io/).
   - [リーダー](https://github.com/21repierre/riidaa/) - An iPad app designed to let you read mokuro'd manga with Yomitan dictionaries.
