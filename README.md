@@ -246,6 +246,7 @@ Output is concerned with producing Japanese. It's about speaking and writing (no
 - [Slowly](https://slowly.app/) - A useful app to make Japanese-speaking penpals.
 - [HelloTalk](https://www.hellotalk.com/) - A popular language exchange app.
 - [italki](https://www.italki.com/) - A website meant to connect you with language tutors, potentially helping you with output.
+- [JIVX](https://jivx.com/) - A web app for output practice: you get an English prompt, type or speak the Japanese, and an AI grades it with corrections. JLPT-leveled sentences with audio; the N5 tier is free.
 
 ## Resource aggregators
 
