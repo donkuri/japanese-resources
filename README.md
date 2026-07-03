@@ -166,6 +166,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [リーダー](https://github.com/21repierre/riidaa/) - An iPad app designed to let you read mokuro'd manga with Yomitan dictionaries.
   - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) - An immersion framework for mobile devices.
   - [Lumi Reader](https://lumireader.app) *(Beta)* - A fast e-book reader with offline support, reading stats, bookmarks, social features, and Yomitan compatibility.
+  - [Anki Miner](https://github.com/0xzerolight/anki_miner) - Desktop app for automated Anki card batch-mining from media.
 
 - Tools
   - **[Jiten](https://jiten.moe/)** - Similar to JPDB, lists media with statistical information about unique words, kanji, etc.
