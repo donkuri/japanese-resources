@@ -2,9 +2,10 @@
 
 > A collection of Japanese learning resources meant to help you learn through immersion, see [here](https://donkuri.github.io/learn-japanese/guide/) for an explanation. A lot of these resources come from the [various resource aggregators](#resource-aggregators) on here, as well as the `#resources-sharing` channel on the [TMW](https://learnjapanese.moe/) Discord server.
 
-## A note on vibecoded tools and new PRs
+### A note on vibecoded tools and new PRs
 Currently, I am receiving a lot of pull requests from devs for vibecoded tools with no traction. **This place is not a marketing hub.** From now on, most PRs will be automatically closed if I do not know the tool or the author (or ideally, both). *This list is for established tools made by people in the community*.
 
+## Content
 - [Learning guides](#learning-guides)
 - [Hiragana and Katakana](#hiragana-and-katakana)
 - [Anki and Yomitan](#anki-and-yomitan)
