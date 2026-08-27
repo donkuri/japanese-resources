@@ -180,6 +180,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [SubPlz](https://github.com/kanjieater/SubPlz) - A subtitle manager to generate, sync and manage subtitle files. Written by [KanjiEater](https://github.com/kanjieater).
   - [mpv-websocket](https://github.com/kuroahna/mpv_websocket) - A tool to open a websocket from mpv to send subtitles to.
   - [jimaku.cc](https://jimaku.cc/) - A website subtitles for anime.
+  - [honjimaku.com](https://honjimaku.com/) - A website subtitles for audiobooks.
   - [Renji's texthooker-ui](https://github.com/Renji-XD/texthooker-ui) - A great texthooker page using websockets.
   - [Renji's ttu-whispersync](https://github.com/Renji-XD/ttu-whispersync) - Lets you listen to audiobooks with [ッツreader](https://reader.ttsu.app).
   - [exSTATic](https://github.com/KamWithK/exSTATic) - A texthooker page complete with graphs and statistics. Uses websockets.
