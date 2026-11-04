@@ -42,6 +42,7 @@ Hiragana and katakana (commonly called *kana* together) form two basic alphabets
 - Writing the kana
   - [Takumi's hiragana writing guide](https://www.youtube.com/watch?v=wD3FJgij79c) - Learn how to write hiragana (if you want to).
   - [Takumi's katakana writing guide](https://www.youtube.com/watch?v=rf-n_qI2occ) - The same but for katakana.
+  - [Hiragana scramble worksheet](https://largeprintmaker.com/ja/hiragana-narabikae-print/) - Printable large-print worksheet: unscramble hiragana into 3- and 4-letter words, with hints and a separate answer page.
 
 - Hentaigana
   - [Kuuube's Hentaigana Input](https://github.com/Kuuuube/hentaigana_input) - A way to input archaic (so-called 'hentaigana') characters.
